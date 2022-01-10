@@ -1,14 +1,14 @@
 ### 😎 Heyyo!
 
-I’m @DuskNone. A 19 year old developer from Canada.
-Most of what I know is self taught,  
-from editing existing code and recreating projects
+I’m *@DuskNone*. A 19 year old developer from Canada.
+Most of what I know is self taught,   
+editing existing code and recreating projects
 
-### 👀 Interests
+👀 **Interests**
 I have an eye for Games and Music!
 I love to make little prototypes and small tracks in my free time
 
-### 🌱 Learning
+🌱 **Learning**
 I’m currently learning Python and Javascript. Creating websites and applications.
 
 <!---
