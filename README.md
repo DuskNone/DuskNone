@@ -1,7 +1,6 @@
 ### 😎 Heyyo!
 
-I'm DuskNone.  
-A 19 year old developer from Canada.  
+I'm DuskNone.    
 Learning Python, Javascript and C#  
 
 I like games and music.
