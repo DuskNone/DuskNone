@@ -1,13 +1,9 @@
-### 😎 Heyyo!
-
 I'm DuskNone.    
-Learning Python, Javascript and C#  
+Always something new to learn!
 
-I like games and music.
+My main languages are Python and Javascript
+Might revisit C# some other time in the future... 
 
-<!---
-DuskNone/DuskNone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I love music and video games. It's nice implementing new features and making connections with the content I enjoy.
 
-yeah dude I know...
---->
+Currenty taking interest in machine learning and automation
